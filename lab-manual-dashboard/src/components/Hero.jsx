@@ -37,7 +37,7 @@ function Hero() {
           <Sparkles size={14} /> Full Stack Development Lab
         </span>
         <h1 className="text-4xl font-bold leading-tight md:text-5xl">
-          Your Name
+          JATIN PETWAL
           <span className="block bg-gradient-to-r from-neonPurple to-neonCyan bg-clip-text text-transparent">
             Lab Manual Showcase
           </span>
