@@ -31,6 +31,16 @@ function Home() {
           Open Lab Dashboard <ArrowRight size={16} />
         </Link>
       </div>
+      <div className="flex">
+        <a
+          href="https://github.com/jatinpetwal914/react-website"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-2 rounded-full bg-gradient-to-r from-gray-600 to-gray-800 px-6 py-3 text-sm font-bold text-white transition hover:scale-105"
+        >
+          <strong>view code</strong>
+        </a>
+      </div>
       <div className="flex flex-wrap gap-3">
         {['HTML', 'CSS', 'JavaScript', 'React'].map((tech) => (
           <Link
